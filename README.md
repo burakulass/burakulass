@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Burak Ulaş</h1>
-<h3 align="center">A enthusiastic software and GIS learner from İstanbul</h3>
+<h3 align="center">A enthusiastic Software and GIS learner from İstanbul</h3>
 
 - 🌱 I try to learn **React and QGİS**
 
