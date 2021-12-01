@@ -1,14 +1,20 @@
 <h1 align="center">Hi 👋, I'm Burak Ulaş</h1>
 <h3 align="center">A enthusiastic software and GIS learner from İstanbul</h3>
 
-- 🔭 I’m currently freelancer worker at [İnmapper](https://inmapper.com)
-
 - 🌱 I try to learn **React and QGİS**
+
+- 🧑‍🎓 I study at Geomatics Engineering(3/4) at YTU
+
+- 👨‍💻 I graduated from Web Desing and Coding at AÖF
+
+- 🔭 I’m currently freelancer at [İnmapper](https://inmapper.com)
 
 - 👨‍💻 All of my projects are available at [https://github.com/burakulass](https://github.com/burakulass)
 
 - 📫 How to reach me **bulas8193@gmail.com**
 
+
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/burkelem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="burkelem" height="30" width="40" /></a>
