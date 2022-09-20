@@ -3,9 +3,9 @@
 
 - 🌱 I try to learn **React and QGİS**
 
-- 🧑‍🎓 I study at Geomatics Engineering(3/4) at YTU
+- 🧑‍🎓 I study at Geomatics Engineering(4/4) at Yıldız Technical University(YTÜ)
 
-- 👨‍💻 I graduated from Web Desing and Coding at AÖF
+- 👨‍💻 I graduated from Web Desing and Coding at Anadolu University (AÖF)
 
 - 🔭 I’m currently freelancer at [İnmapper](https://inmapper.com)
 
