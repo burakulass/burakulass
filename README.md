@@ -7,7 +7,7 @@
 
 - 👨‍💻 I graduated from Web Desing and Coding at Anadolu University (AÖF)
 
-- 🔭 I’m currently freelancer at [İnmapper](https://inmapper.com)
+- 🔭 I worked at [İnmapper](https://inmapper.com) as freelancer 
 
 - 👨‍💻 All of my projects are available at [https://github.com/burakulass](https://github.com/burakulass)
 
