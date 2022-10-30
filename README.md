@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Burak Ulaş</h1>
 <h3 align="center">A enthusiastic Software develop(v)er and GIS learner from İstanbul</h3>
 
-- 🌱 I try to learn **React and QGİS**
+- 🌱 I try to learn **Front-End**
 
 - 🧑‍🎓 I study at Geomatics Engineering(4/4) at Yıldız Technical University(YTÜ)
 
