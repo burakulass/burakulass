@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Burak Ulaş</h1>
 <h3 align="center">A enthusiastic Software develop(v)er and GIS learner from İstanbul</h3>
 
-- 🌱 I try to learn **Front-End**
+- 🌱 I am **Front-End Developer**
 
-- 🧑‍🎓 I study at Geomatics Engineering(4/4) at Yıldız Technical University(YTÜ)
+- 🧑‍🎓 I studied at Geomatics Engineering at Yıldız Technical University(YTÜ)
 
 - 👨‍💻 I graduated from Web Desing and Coding at Anadolu University (AÖF)
+
+-  🔭 I worked  Sendeo @KoçGroup as GIS Assistant Specialist
+
+- 🔭 I made my intern at İBB as Software Development Internship
 
 - 🔭 I worked at [İnmapper](https://inmapper.com) as freelancer 
 
